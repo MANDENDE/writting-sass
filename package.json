@@ -1,0 +1,22 @@
+{
+  "name": "writting-sass",
+  "version": "1.0.0",
+  "description": "projet apprentissage de sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANDENDE/writting-sass.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Suzy Mandende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANDENDE/writting-sass/issues"
+  },
+  "homepage": "https://github.com/MANDENDE/writting-sass#readme"
+}
